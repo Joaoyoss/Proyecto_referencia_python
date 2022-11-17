@@ -1,0 +1,10 @@
+Notas de Python                              15 Noviembre 2022
+_________________________________________________________
+
+En python el compilador sale dando run en el ide y automàticamente el terminal pshell se despliega para phyton....el run sale
+dando click sobre un triangulito icono de play en labarra de herramientas del ide visual estudio code+
+
+O..desde un editor de texto del sistema operativo, debo abrir un terminal de consola, pararme en el local del archivo python y 
+es ejecutarlo; escribiendo la palabra python seguido del nombre del archivo. OJO!!!
+
+pYTHON 
